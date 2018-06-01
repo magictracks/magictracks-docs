@@ -7,6 +7,7 @@
 * Concept
     - Briefing 
     - Personas
+    - moodboard
 * Planning
 
 ### Week 1: June 4 - June 8
