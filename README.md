@@ -5,7 +5,7 @@ Repo for documenting the DIY Syllabus - part of the "hacking higher ed" project
 See Issues for updates and meeting Notes tagged with `[Updates/Notes]`:
 https://github.com/joeyklee/itp-hacking-higher-ed/issues
 
-
+- Week 1: June 7, 2018. [Slides](https://docs.google.com/presentation/d/1hXr2e4Wup86X4Hq2g7QLGCRyHqF2oYQiBXTelpFfoBw/edit?usp=sharing)
 
 
 ## docs
