@@ -6,6 +6,8 @@ See Issues for updates and meeting Notes tagged with `[Updates/Notes]`:
 https://github.com/joeyklee/itp-hacking-higher-ed/issues
 
 - Week 1: June 7, 2018. [Slides](https://docs.google.com/presentation/d/1hXr2e4Wup86X4Hq2g7QLGCRyHqF2oYQiBXTelpFfoBw/edit?usp=sharing)
+- Week 2: June 14, 2018. [Slides](https://docs.google.com/presentation/d/1s5cj6sMfjQ82hUabvhXYzMQOGyA1bUxj2cXIY-rdBp8/edit?usp=sharing)
+- Week 3: June 21, 2018. TBD
 
 
 ## docs
