@@ -18,18 +18,15 @@
 
 ### Week 2: June 11 - June 15
 
-- markus ==> moodboarding + additional resources and research / visuals etc
 - sketching and wireframing
 - lots of ideas and proposals
 - decide on master list of requirements and features / MVP and dream project
-- monday/tuesday sprint w/ markus 
 
 ### Week 3: June 18 - June 22
 - sketching and wireframing
 - visual design + layout
 - generate lots of ideas and proposals
 - decide on selected MVP / layouts 
-- monday/tuesday sprint w/ markus 
 
 ### Week 4: June 25 - June 29
 By end of week for we should:
