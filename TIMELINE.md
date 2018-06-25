@@ -28,7 +28,7 @@
 - generate lots of ideas and proposals
 - decide on selected MVP / layouts 
 
-### Week 4: June 25 - June 29
+### Week 4: June 25 - June 29 📍(we are here this week)
 By end of week for we should:
 - 2 days prototyping to help decision making process
 - have [4] possibilities for proposals of the system
