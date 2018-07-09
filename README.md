@@ -5,10 +5,15 @@ Repo for documenting the DIY Syllabus - part of the "hacking higher ed" project
 See Issues for updates and meeting Notes tagged with `[Updates/Notes]`:
 https://github.com/joeyklee/itp-hacking-higher-ed/issues
 
-- Week 1: June 7, 2018. [Slides](https://docs.google.com/presentation/d/1hXr2e4Wup86X4Hq2g7QLGCRyHqF2oYQiBXTelpFfoBw/edit?usp=sharing)
-- Week 2: June 14, 2018. [Slides](https://docs.google.com/presentation/d/1s5cj6sMfjQ82hUabvhXYzMQOGyA1bUxj2cXIY-rdBp8/edit?usp=sharing)
-- Week 3: June 21, 2018. [Slides](https://docs.google.com/presentation/d/1oHvoyg4f_30YHd53dSvAT2cjzD0RZ2EaN9PcL1zE7vk/edit?usp=sharing)
-- Week 4: June 28, 2018. [Slides](https://docs.google.com/presentation/d/1iPBk2P695OF-J2qb-zQOwe796sJfpqdY39j3l4tNIJU/edit?usp=sharing)
+| Week       | Date          | Slides    | Issue      |
+| ---------- | ------------- | ----------| ---------- |
+| Week 1     | June 7, 2018  | [Slides](https://docs.google.com/presentation/d/1hXr2e4Wup86X4Hq2g7QLGCRyHqF2oYQiBXTelpFfoBw/edit?usp=sharing) | [20180607](https://github.com/joeyklee/itp-diy-syllabus/issues/9), [20180603](https://github.com/joeyklee/itp-diy-syllabus/issues/7) |
+| Week 2     | June 14, 2018  | [Slides](https://docs.google.com/presentation/d/1s5cj6sMfjQ82hUabvhXYzMQOGyA1bUxj2cXIY-rdBp8/edit?usp=sharing) | [20180614](https://github.com/joeyklee/itp-diy-syllabus/issues/13), [20180612](https://github.com/joeyklee/itp-diy-syllabus/issues/12) |
+| Week 3     | June 21, 2018  | [Slides](https://docs.google.com/presentation/d/1oHvoyg4f_30YHd53dSvAT2cjzD0RZ2EaN9PcL1zE7vk/edit?usp=sharing) | [20180621](https://github.com/joeyklee/itp-diy-syllabus/issues/17), [20180619](https://github.com/joeyklee/itp-diy-syllabus/issues/15), [20180615](https://github.com/joeyklee/itp-diy-syllabus/issues/14) |
+| Week 4     | June 28, 2018  | [Slides](https://docs.google.com/presentation/d/1iPBk2P695OF-J2qb-zQOwe796sJfpqdY39j3l4tNIJU/edit?usp=sharing) | [20180626](https://github.com/joeyklee/itp-diy-syllabus/issues/22) |
+| Week 5     | July 07, 2018  | [Slides](https://docs.google.com/presentation/d/1fxlmlrqK9ToM4nNNNKgsQFruHHxCQNwp97qA0woWZOA/edit?usp=sharing) | [20180705](https://github.com/joeyklee/itp-diy-syllabus/issues/24) |
+
+
 
 
 ## docs
