@@ -19,7 +19,7 @@ https://github.com/joeyklee/itp-hacking-higher-ed/issues
 | Week 10     | Aug  09, 2018  | [Slides]() | [Issue#29](https://github.com/joeyklee/itp-diy-syllabus/issues/29) |
 | Week 11     | Aug  16, 2018  | [Slides]() | [Issue#32](https://github.com/joeyklee/itp-diy-syllabus/issues/32) |
 | Week 12     | Aug  23, 2018  | [Slides]() | [Issue#33](https://github.com/joeyklee/itp-diy-syllabus/issues/33) |
-| Week 13     | Aug  30, 2018  | [Slides]() | [Issue#]() 📍|
+| Week 13     | Aug  30, 2018  | [Slides]() | [Issue#](https://github.com/joeyklee/itp-diy-syllabus/issues/34) 📍|
 
 
 
@@ -28,8 +28,7 @@ https://github.com/joeyklee/itp-hacking-higher-ed/issues
 
 contains documentation and other concept related info, research links and notes, and wireframes.
 
-### concept
-
+### intial concept and materials (June - July): v.0.1
 * [briefing](https://docs.google.com/document/d/14wtkBoX1fbWLUpeSw2PBLTRhv4-qsjQtfIXQNBGMFLE/edit?usp=sharing)
 * [personas](https://docs.google.com/presentation/d/123tP9MThbqVtYEYukDsGyDexfvQCatvXaWpWvNcjnX0/edit?usp=sharing)
 * [moodboard](https://docs.google.com/presentation/d/1aA80h4-t3FuK8H1JkA_M12orFMegoaA-c_IxaWGZGEs/edit?usp=sharing)
@@ -37,10 +36,19 @@ contains documentation and other concept related info, research links and notes,
 * concept sketches // See [briefing](https://docs.google.com/document/d/14wtkBoX1fbWLUpeSw2PBLTRhv4-qsjQtfIXQNBGMFLE/edit?usp=sharing)
 
 
+### concept and materals: v.0.2
+
+* ...
+* ...
+* ...
+
+
+
+
 ## Essentials
 
-- [HUMANS.md](): All the people involved with making the project happen
+- [HUMANS.md](HUMANS.md): All the people involved with making the project happen
 - [LICENSE.md]():  License
-- [TIMELINE.md](): Planning project goals and general project management
-- [CODEOFCONDUCT.md](): Even though you're probably lovely, there's still some rules we all agree on in order to participate here.
-- [CONTRIBUTING.md](): How to contribute to this project.
+- [TIMELINE.md](TIMELINE.md): Planning project goals and general project management
+- [CODEOFCONDUCT.md]([CODEOFCONDUCT.md): Even though you're probably lovely, there's still some rules we all agree on in order to participate here.
+- [CONTRIBUTING.md](CONTRIBUTING.md): How to contribute to this project.
