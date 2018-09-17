@@ -19,7 +19,10 @@ https://github.com/joeyklee/itp-hacking-higher-ed/issues
 | Week 10     | Aug  09, 2018  | [Slides]() | [Issue#29](https://github.com/joeyklee/itp-diy-syllabus/issues/29) |
 | Week 11     | Aug  16, 2018  | [Slides]() | [Issue#32](https://github.com/joeyklee/itp-diy-syllabus/issues/32) |
 | Week 12     | Aug  23, 2018  | [Slides]() | [Issue#33](https://github.com/joeyklee/itp-diy-syllabus/issues/33) |
-| Week 13     | Aug  30, 2018  | [Slides]() | [Issue#](https://github.com/joeyklee/itp-diy-syllabus/issues/34) 📍|
+| Week 13     | Aug  30, 2018  | [Slides]() | [Issue#34](https://github.com/joeyklee/itp-diy-syllabus/issues/34) |
+| Joey Away     | Aug  30 - Sept 16, 2018  | N/A | N/A|
+| Week 14      | Sept 17, 2018  | [Slides]() | [Issue#]() 📍|
+
 
 
 
