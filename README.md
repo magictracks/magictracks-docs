@@ -1,5 +1,6 @@
-# itp-diy-syllabus
-Repo for documenting the DIY Syllabus - part of the "hacking higher ed" project
+# Knitting Machine Documentation
+*Formerly known as itp-diy-syllabus - Repo for documenting the DIY Syllabus - part of the "hacking higher ed" project*
+
 
 ## `[Updates/Notes]`
 See Issues for updates and meeting Notes tagged with `[Updates/Notes]`:
@@ -26,7 +27,6 @@ https://github.com/joeyklee/itp-hacking-higher-ed/issues
 
 
 
-
 ## docs
 
 contains documentation and other concept related info, research links and notes, and wireframes.
@@ -41,10 +41,11 @@ contains documentation and other concept related info, research links and notes,
 
 ### concept and materals: v.0.2
 
-* ...
-* ...
-* ...
+* [briefing updated](https://docs.google.com/document/d/1BE7uAgVvGd1MO3YutnDACo1I4YMegNHcLmUEdgxUjo0/edit?usp=sharing)
 
+### concept and materals: v.0.3
+
+* Add in latest documentation on project direction and thinking
 
 
 
