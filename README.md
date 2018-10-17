@@ -2,6 +2,17 @@
 *Formerly known as itp-diy-syllabus - Repo for documenting the DIY Syllabus - part of the "hacking higher ed" project*
 
 
+## Knitting Machine Components
+
+- [Knitting Machine API]():
+  - The REST API / database for the shared and knitted links
+- [Knitting Machine Website]():
+  - The website of the Knitting Machine Project
+- [Knitting Machine Extension]():
+  - The browser extension for collecting and stiching links 
+
+
+
 ## `[Updates/Notes]`
 See Issues for updates and meeting Notes tagged with `[Updates/Notes]`:
 https://github.com/joeyklee/itp-hacking-higher-ed/issues

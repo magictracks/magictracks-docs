@@ -806,3 +806,120 @@ Slides for week 1 updates: https://docs.google.com/presentation/d/1hXr2e4Wup86X4
 
 ##  refs:
    + https://www.imsglobal.org/activity/learning-tools-interoperability
+
+
+***
+## 20180603
+***
+
+* Nice to haves/ideas:
+   - document issues: make sure students and GRAs can provide feedback about what worked/didn't work in the learning pathway
+   - how to document a project:
+     + template for case studies ==> need header image, descriptions, links == >everything must be filled out before submission
+     + it's like Wiki  // look into wiki's structure wise
+     + people should enjoy the documentation process and the referencing process
+      + export function for documentation (press kit style, ready to use material for documentation)
+   - super important: develop a system for concepting
+     + getting to the right concept as a crucial step ==> e.g. what are the references and projects which have happened in the past / past projects / past designers/ artists
+     + tag past projects, tag books, papers, articles, links, inspiration
+
+- "related projects" suggestions list based on tech or methods or links used or referenced ==> bring you forward towards new or mashuped methods, etc
+- add emotion tags ==> eg. happiness, relief, frustration
+- add a "slider" for range of "prototype, proof of concept ==> production"
+- create level of difficulty tags?
+
+What is the design system for solving the curation of materials for individualized learning, discovery, etc ?
+
+Ways of working ==> include more philosophical styles of doing // e.g. design sprints or 2-2-2 (or whatever it is called), iterations, ...
+
+We are building a platform to:
+- do better problem solving
+- curate the management of projects
+- better reference the problem solving process
+- break down complexity
+- find the right steps/methods/tools to turn your idea into reality
+- build off of the materials of others and make references to them
+- ...
+
+
+
+***
+## 20180601
+***
+
+Meeting notes
+
+Started briefing for DIY Syllabus: https://docs.google.com/document/d/14wtkBoX1fbWLUpeSw2PBLTRhv4-qsjQtfIXQNBGMFLE/edit?usp=sharing
+Started moodboard for DIY Syllabus: https://docs.google.com/presentation/d/1aA80h4-t3FuK8H1JkA_M12orFMegoaA-c_IxaWGZGEs/edit?usp=sharing
+
+
+## Additional Ideas:
+* ITP camp as a test case
+* Clay Shirkey - ed tech / https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/academic-affairs/clay-shirky.html
+
+# Todos/handy tools for concept:
+* [X] "User" personas ==> see: https://github.com/joeyklee/itp-diy-syllabus/blob/master/docs/concept/personas/PERSONAS.md
+* Journey maps
+* service blueprints
+* feature blueprint
+* MVP vs. dream project specs
+
+
+***
+## 20180430
+***
+
+# 20130523
+
+## Recap from last conversation
+
+To briefly recap our conversation:
+
+- ITP is looking for an educational technologist type-of-person to design, develop, and test various types of software and community based interventions that will help build greater access to course materials, student work, and infrastructure internally and externally.
+- Specific efforts include:
+    + designing methods for gathering metrics about the department IMA support
+    + highlighting student work (e.g. blog blender)
+    + providing community support for portfolio feedback
+    + gathering and archiving course materials
+    + enhancing equipment rental processes and room booking at the BK location
+    + enhanced course planning and projections for students
+    + p5 / p4 web editor integrations
+    + easier attendance monitoring
+
+
+
+
+***
+## 20180523
+***
+
+# meeting notes 20180525
+
+The tasks cover 3 main target areas / main stakeholders:
+
+* specific classes -- professor/student
+* admin & data // efficiency internally -- admin/students
+* future courses  -- students
+
+## Ideas for focused work for 3 months
+
+* Just-in-time/DIY syllabus:
+  - start with the CODE! class as a test ground
+  - bring in syllabi from other courses and other online tutorials and materials
+  - syllabi currently live across the web in the form of:
+     + "Classes" LMI
+     + Github
+     + html
+     + WordPress
+     + GoogleSites
+     + PDFs
+
+* IMA is starting and they need a portfolio / way to highlight student work / the project "blender" where students and people can share, comment, and see what's happening at ITP/IMA + a way to archive.
+
+* One way to better manage data would be to develop some system to better tag and keep track of links across all the sources of materials and content across the department and students. Thinking about a way of better indexing, searching, ontologically tagging links ==> see https://pinboard.in/
+
+
+# Next steps
+
+* take care of admin details
+* collaborate with Markus Kreutzer for concept, design, and implementation (http://markuskreutzer.com/) - based in germany + will subcontract to do the projects together.
