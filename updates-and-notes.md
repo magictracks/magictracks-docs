@@ -2,6 +2,55 @@
 
 *Migrated from Github Issues to this single living document*
 
+***
+## 20181024
+***
+
+Hi All,
+
+It has been awhile since I wrote an update, but here's a summary of the news on the project developments:
+
+###  Project Repo organization:
+All of the the projects have been moved to this organization - [Knitting Machine](https://github.com/knittingmachine)
+
+* see the [documentation](https://github.com/knittingmachine/knittingmachine-docs#knitting-machine-components) for all the components of the project. 
+
+### Naming
+
+Right now the organization is called "Knitting Machine", but I'm by no means married to the name + happy to change it. As a placeholder I just wanted something related to this idea of knitting together links across the web. 
+
+### API Development
+The focus of the last couple weeks has been to start building out the API for the service. At the moment we have endpoints for:
+
+- resources (e.g. links)
+- sections (e.g. ordered links)
+- playlists (e.g. ordered sections)
+- tags (e.g. tags)
+
+FeathersJs creates tests written in [Mocha ](https://mochajs.org/) and includes them in a [`/test`](https://github.com/knittingmachine/knittingmachine-api/tree/master/test) directory. I've started to write some tests and will create some documentation on how others might contribute tests for these different endpoints. I'm not 100% sure that my method of writing tests is correct, but I think it is ok for now. Hopefully I can get some feedback on that. 
+
+#### Dummy Data
+I've written a script to add dummy data to our various mongo collections for development: https://github.com/knittingmachine/knittingmachine-api#loading-dummy-data
+
+These don't have any references to any other resources (in the case of sections) or sections (in the case of playlists). See below for tackling batch import of real data.
+
+#### Real data batch Import script
+I'm working as well on a script to add sections and playlist data into the databases. This is different from the dummy data script because the way our database is structured. What needs to happen is that whenever we add, for example a playlist is:
+
+> we add the playlist to the playlists db > then we add each of the sections within that playlist to the sections db, pushing the IDs of each of those sections to the playlist we just added > then we add each of the resources associated with each of those sections to the resources db, storing the ids for each of those resources to their respective section. 
+
+
+#### Next steps
+
+The next steps include:
+
+- integrating users and authentication: 
+   - allow people to see the data but require login to create, update, patch, delete
+- make sure to cleanse any sensitive data out when sending data around with the api. 
+- wire up backend to front end
+
+
+
 
 ***
 ## 20180830
