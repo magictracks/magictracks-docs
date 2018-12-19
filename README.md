@@ -1,15 +1,15 @@
-# Knitting Machine Documentation
+# Magic Tracks Documentation
 *Formerly known as itp-diy-syllabus - Repo for documenting the DIY Syllabus - part of the "hacking higher ed" project*
 
 
-## Knitting Machine Components
+## Magic Tracks Components
 
-- [Knitting Machine API]():
-  - The REST API / database for the shared and knitted links
-- [Knitting Machine Website]():
-  - The website of the Knitting Machine Project
-- [Knitting Machine Extension]():
-  - The browser extension for collecting and stiching links 
+- [Magic Tracks API]():
+  - The REST API / database for the shared links and playlists
+- [Magic Tracks Application]():
+  - The web app of the magic tracks project
+- [Magic Tracks Extension]():
+  - The browser extension for collecting links 
 
 
 
